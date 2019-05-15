@@ -6,3 +6,7 @@
 
 ## WIKI
 Για να δείτε μια αναλυτική περιγραφή της κατασκευής και τη σκεπτική μου πηγαίντε στο Wiki αυτού του project (https://github.com/GauravMall/Customer-Assistant/wiki).
+
+
+
+![The Customer-Assisant-Prototype](https://github.com/GauravMall/Customer-Assistant/blob/master/20190504_230813.jpg)
